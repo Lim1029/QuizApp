@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="my_laptop_name">Surface Pro 5</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good!</string>
+
+    <string name="q1">The first spam message was transmitted over telegraph wires in 1864.</string>
+    <string name="q2">The first bike was called a hobbyhorse.</string>
+    <string name="q3">Penang is Malaysia\'s capital.</string>
+    <string name="q4">Elephants are capable of swimming 20 miles per day.</string>
+    <string name="q5">\"Memento\" was Stephen Spielberg directed movie.</string>
+    <string name="q6">A honey bee can fly at 15 mph.</string>
+    <string name="q7">Surface pro 5 has a USB type-c port.</string>
+    <string name="q8">Mt. Everest has grown one foot over the last 100 years.</string>
+    <string name="q9">There are 4 seasons in Malaysia.</string>
+    <string name="q10">An ant\'s sense of smell is stronger than a dog\'s.</string>
+
+</resources>
